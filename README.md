@@ -1,4 +1,4 @@
-# infographic test 
+# Test Infographic  
 
 ## Description
 This sample infographic compares the differences between  between SSD and HDD.
