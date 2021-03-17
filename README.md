@@ -1,7 +1,7 @@
 # infographic test 
 
 ## Description
-This infographic compares the differences between  between SSD and HDD.
+This sample infographic compares the differences between  between SSD and HDD.
 
 ## Artboards 
 - Artboard 7 is the rough draft for the infographic. A grid was used to better organize the content define categories.
